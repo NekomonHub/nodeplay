@@ -14,7 +14,7 @@ apt install pulseaudio -y
 ```
 ***Install Npm.js Library***
 ```bash
-npm install @nekomonhub/nodeplay@2.0.0
+npm install @nekomonhub/nodeplay@3.0.0
 ```
 
 ***Example Code for using the Feature***
